@@ -29,4 +29,6 @@ Tengo sólidos conocimientos en diseño arquitectural de software, patrones de p
 
 - ❤️ Me gusta aprender y desarrollar software
 
-- 💬 Ask me about anything [here]([https://github.com/anuraghazra/anuraghazra/issues](https://www.linkedin.com/in/jose-miguel-guzman-quevedo-3a5508250))
+- 👨🏻‍🔬 Actualmente estoy aprendiendo sobre micro servicios y [NodeJS]
+
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/jose-miguel-guzman-quevedo-3a5508250)
